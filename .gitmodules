@@ -1,0 +1,12 @@
+[submodule "AI-LLM-Security-Agent-Systems"]
+	path = AI-LLM-Security-Agent-Systems
+	url = https://github.com/nitinkc/AI-LLM-Security-Agent-Systems.git
+[submodule "api-security"]
+	path = api-security
+	url = https://github.com/nitinkc/api-security.git
+[submodule "Enterprise-security-FDE"]
+	path = Enterprise-security-FDE
+	url = https://github.com/nitinkc/Enterprise-security-FDE.git
+[submodule "spring-security-reference"]
+	path = spring-security-reference
+	url = https://github.com/nitinkc/spring-security-reference.git
